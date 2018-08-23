@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+      <class name="testNG_sample.Sample_testNG">
+        <test-method status="PASS" signature="browserSetup()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="browserSetup" is-config="true" duration-ms="16" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetup -->
+        <test-method status="PASS" signature="enterURL()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="enterURL" is-config="true" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method status="PASS" signature="openAPP()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="openAPP" is-config="true" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openAPP -->
+        <test-method status="PASS" signature="launchResult()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="launchResult" is-config="true" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchResult -->
+        <test-method status="PASS" signature="testResult()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="testResult" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="deleteCookies" is-config="true" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="closeWeb()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="closeWeb" is-config="true" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWeb -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:testNG_sample.Sample_testNG@5419f379]" name="closeApp" is-config="true" duration-ms="0" started-at="2018-05-28T07:25:33Z" finished-at="2018-05-28T07:25:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- testNG_sample.Sample_testNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
